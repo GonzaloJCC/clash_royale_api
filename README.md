@@ -7,6 +7,6 @@ Create a file named ".env" with the following fields:
 - PLAYER_TAG = "#Y12345456"  
 - ENEMY_TAG = "#Y12345456"
 
-Both tags can be obtained in your Clash Royale profile  
+Both tags can be obtained in your Clash Royale profile and in your enemies. 
 To get the token you need to create an account [here](https://developer.clashroyale.com/). And then create a token.
 
